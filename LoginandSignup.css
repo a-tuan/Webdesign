@@ -1,0 +1,34 @@
+.images-logo{
+    text-align: center;
+    border-bottom: 0.5px solid;
+}
+
+body{
+    background-image: url("images/background.jpg");
+    background-size:cover;
+    background-position: center;
+}
+img{
+    height:100px;
+}
+nav{
+    background-color: white;
+}
+.container{
+    text-align:  center;
+    color: whitesmoke;
+}
+main{
+    justify-content: center;
+    text-align: center;
+}
+.Login{
+    max-width:fit-content;
+    margin: 150 auto;
+    padding: 30px;
+}
+.Signup{
+    max-width: fit-content;
+    margin: auto;
+    align-items: center;
+}
